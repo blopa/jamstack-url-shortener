@@ -6,11 +6,7 @@ const Redirect = ({pageContext}) => {
         window.location.replace(redirectToUrl);
     }, []);
 
-    return (
-        <p>
-            Lala
-        </p>
-    )
+    return (<p></p>)
 }
 
-export default Redirect
+export default Redirect;

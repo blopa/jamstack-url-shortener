@@ -1,7 +1,13 @@
-import React from "react"
+import React, { useEffect } from "react"
 
-const NotFoundPage = () => (
-    <p>404: Not found</p>
-)
+const NotFoundPage = () => {
+    useEffect(() => {
+        window.location.replace(
+            'https://github.com/blopa/jamstack-url-shortner'
+        );
+    }, []);
 
-export default NotFoundPage
+    return (<p></p>)
+}
+
+export default NotFoundPage;

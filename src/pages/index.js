@@ -1,7 +1,13 @@
-import React from "react"
+import React, { useEffect } from "react"
 
-const IndexPage = () => (
-    <p>Test</p>
-)
+const IndexPage = () => {
+    useEffect(() => {
+        window.location.replace(
+            'https://github.com/blopa/jamstack-url-shortner'
+        );
+    }, []);
 
-export default IndexPage
+    return (<p></p>)
+}
+
+export default IndexPage;
