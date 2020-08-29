@@ -21,7 +21,7 @@ This is a basic URL shortner POC build with Gatsby.
 4.  **Add new URLs**
 
     Whenever a new URL is added to the Spreadsheet, you need to manually trigger a new Github Actions build
-    ![ScreenShot](https://raw.githubusercontent.com/blopa/jamstack-url-shortner/master/readme_images/public_spreadsheet.png)
+    ![ScreenShot](https://raw.githubusercontent.com/blopa/jamstack-url-shortner/master/readme_images/manual_deploy.png)
 
 ## 🗜 Examples
 - https://blopa.github.io/jamstack-url-shortner/4c2873b2 goes to https://github.com/blopa/jamstack-url-shortner/
