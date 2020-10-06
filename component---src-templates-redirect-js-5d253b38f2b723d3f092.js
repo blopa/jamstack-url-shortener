@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{GZiI:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),c=t.n(a);n.default=function(e){var n=e.pageContext.redirectToUrl;return Object(a.useEffect)((function(){window.location.replace(n)}),[]),c.a.createElement("p",null,"Lala")}}}]);
-//# sourceMappingURL=component---src-templates-redirect-js-5d253b38f2b723d3f092.js.map
