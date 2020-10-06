@@ -1,8 +1,8 @@
 module.exports = {
-  pathPrefix: 'jamstack-url-shortner',
+  pathPrefix: 'jamstack-url-shortener',
   siteMetadata: {
-    title: 'jamstack-url-shortner',
-    description: 'JAMStack URL shortner',
+    title: 'jamstack-url-shortener',
+    description: 'JAMStack URL shortener',
     author: '@blopa',
   },
   plugins: [
